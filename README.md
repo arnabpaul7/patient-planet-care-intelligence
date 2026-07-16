@@ -1,5 +1,6 @@
-# Patient Planet Care Intelligence Platform
-
+<p align="center">
+  <img src="banner.png" alt="Patient Planet Care Intelligence Platform" width="100%">
+</p>
 
 An AI-powered operating system for Homecare and Care Homes, built to transform quality, compliance, workforce, and executive decision making
 ## The Intelligence Layer for Modern Care Organizations
