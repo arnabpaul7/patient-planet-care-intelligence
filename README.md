@@ -207,16 +207,16 @@ Patient Planet Care Intelligence Platform is actively evolving.
 The core Homecare Intelligence and Care Home Intelligence operating systems are functional and continue to expand with additional AI capabilities, analytics, executive dashboards, benchmarking, and operational intelligence.
 
 ---
+---
 
-# Founder
+## 🏛️ ENTERPRISE GOVERNANCE & REGULATORY REGISTRY
 
-**Arnab Paul**
+* **Asset Class:** Core Care Intelligence Engine Architecture
+* **Trademarks:** Registered and Protected under Class 42 & Class 44
+* **Compliance Moat:** Aligned with the WHO Global Strategy on Digital Health Interoperability Standards and official WHO-ITU BHBM Clinical Deployment Protocols.
+* **Distribution Channel:** Distributed exclusively under restricted B2B Enterprise Software Licensing Frameworks. 
 
-Founder, Patient Planet
-
-Founder & National Convenor, Homecare Association of India
-
-WHO Digital Health Roster of Experts
+For institutional sandbox allocation requests, data pipeline integration protocols, or formal executive briefings, please connect via authenticated enterprise channels.
 
 ---
 
