@@ -2,233 +2,1020 @@
   <img src="banner.png" alt="Patient Planet Care Intelligence Platform" width="100%">
 </p>
 
-An AI-powered operating system for Homecare and Care Homes, built to transform quality, compliance, workforce, and executive decision making
-## The Intelligence Layer for Modern Care Organizations
+<!-- ====================================================================== -->
+<!--                                                                       -->
+<!--                     PATIENT PLANET CARE INTELLIGENCE PLATFORM          -->
+<!--                                                                       -->
+<!-- ====================================================================== -->
 
-Patient Planet Care Intelligence Platform is building the intelligence layer for the care economy.
+<div align="center">
 
-It is an AI-powered operating system that enables homecare providers and care homes to manage operations, quality, workforce, compliance, and executive decision making from a single platform.
+# Patient Planet Care Intelligence Platform
 
-Instead of relying on disconnected software, spreadsheets, and manual reporting, organizations gain real-time operational intelligence that helps leaders improve quality of care, standardize operations, reduce risk, and make faster decisions.
+### Enterprise AI Operating System for Homecare, Care Homes & Distributed Care Networks
 
-The platform combines two specialized intelligence systems into one unified ecosystem.
-
----
-
-# 🏠 Homecare Intelligence
-
-Designed for organizations delivering:
-
-- Home Nursing
-- Caregiver Services
-- Physiotherapy
-- Rehabilitation
-- Palliative Care
-- Hospital-at-Home
-- Chronic Disease Management
-- Long-term Elder Care
-
-The platform helps homecare organizations monitor workforce performance, clinical quality, operational efficiency, compliance, and business growth through one executive dashboard.
+*Transforming operational data into organizational intelligence.*
 
 ---
 
-# 🏡 Care Home Intelligence
+![Platform](https://img.shields.io/badge/Platform-Enterprise-blue)
+![Development](https://img.shields.io/badge/Status-Active%20Development-success)
+![Frontend](https://img.shields.io/badge/Frontend-Next.js-black)
+![Backend](https://img.shields.io/badge/Backend-FastAPI-green)
+![Language](https://img.shields.io/badge/Python-3.12-blue)
+![Database](https://img.shields.io/badge/PostgreSQL-16-blue)
+![AI](https://img.shields.io/badge/AI-OpenAI-purple)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-Docker-2496ED)
+![License](https://img.shields.io/badge/License-Proprietary-red)
 
-Built on the NABH Care Homes Standards (2023), Care Home Intelligence transforms accreditation standards into a real-time operational intelligence platform.
-
-Instead of treating NABH as a periodic compliance exercise, the platform continuously measures quality, identifies operational gaps, detects non-conformities, recommends corrective and preventive actions, and helps organizations maintain continuous readiness.
-
-Current capabilities include:
-
-- Complete NABH Standards Mapping
-- Digital NABH Assessment Workflow
-- Automated NC Detection
-- AI-assisted CAPA Generation
-- Quality Management System
-- Evidence & Document Management
-- Executive Dashboard
-- Workforce Intelligence
-- Resident Risk Monitoring
-- Benchmark Intelligence
-- Predictive Risk Analytics
-- AI Co-Pilot
-- Professional Reporting
+</div>
 
 ---
 
-# What the Platform Does
+## Overview
 
-Patient Planet brings together operations, quality, compliance, workforce, clinical intelligence, and executive reporting into one AI-powered operating system.
+Patient Planet Care Intelligence Platform is an enterprise software platform designed specifically for organizations delivering care outside the traditional hospital environment.
 
-Leaders no longer need to navigate multiple software platforms to understand how their organization is performing.
+The platform enables homecare providers and care homes to manage operations, workforce, quality, compliance, assessments, reporting and executive decision-making through a single integrated operating system.
 
-The platform delivers one unified view of the entire organization.
+Rather than replacing existing workflows, Patient Planet connects operational information across the organization and transforms it into actionable intelligence through executive dashboards, artificial intelligence and predictive analytics.
 
----
+The platform currently consists of two enterprise products built on a shared intelligence architecture:
 
-# Core Capabilities
+🏠 **Homecare Intelligence**
 
-- AI Co-Pilot
-- Executive Command Center
-- Homecare Operations Management
-- Care Home Operations
-- NABH Digital Workflow
-- Automated NC & CAPA Management
-- Quality Management System
-- Compliance Intelligence
-- Workforce Intelligence
-- Resident & Patient Risk Monitoring
-- Evidence Management
-- AI-assisted Assessments
-- Benchmark Intelligence
-- Predictive Risk Analytics
-- Professional Reporting
-- Executive Dashboards
+🏡 **Care Home Intelligence**
+
+Together they provide a unified operational view across clinical services, workforce management, regulatory compliance, quality systems and executive performance.
 
 ---
 
-# Built For
+# Why Patient Planet Exists
 
-- Home Healthcare Providers
-- Care Homes
-- Assisted Living Communities
-- Senior Living Operators
-- Rehabilitation Centres
-- Palliative Care Providers
-- Multi-site Care Networks
-- Healthcare Entrepreneurs
+Healthcare is rapidly moving beyond hospitals.
 
----
+Homecare providers, care homes, assisted living communities and hospital-at-home programs are becoming essential components of modern healthcare delivery.
 
-# Vision
+As organizations grow, so does operational complexity.
 
-Our mission is to build the intelligence layer for the care economy.
+Scheduling systems, HR software, compliance documentation, quality audits, assessments, financial reports and operational data often exist in separate systems, requiring leadership teams to consolidate information manually before decisions can be made.
 
-Just as ERP transformed manufacturing and CRM transformed customer management, Patient Planet aims to become the operating system that powers modern care organizations through artificial intelligence, standardized clinical quality, operational excellence, and real-time executive intelligence.
+Patient Planet was built to simplify this complexity.
 
----
+Instead of navigating multiple software platforms, leaders gain a single operational view of their organization through one enterprise platform.
 
-# Product Capabilities
+The objective is straightforward:
 
-## ✅ Homecare Intelligence
+• Improve operational visibility
 
-- Executive Command Center
-- Homecare Operations Management
-- AI Co-Pilot
-- Workforce Intelligence
-- Compliance Intelligence
-- Quality Intelligence
-- Professional Reporting
-- Executive Dashboards
+• Strengthen quality management
 
-## ✅ Care Home Intelligence
+• Standardize compliance
 
-- Complete NABH Standards Mapping
-- Digital NABH Assessment Workflow
-- Automated NC Detection
-- AI-assisted CAPA Generation
-- Quality Management System
-- Evidence Management
-- Workforce Intelligence
-- Resident Risk Monitoring
-- Executive Dashboard
-- Benchmark Intelligence
-- Predictive Risk Analytics
-- AI Co-Pilot
-- Professional Reporting
+• Support workforce performance
+
+• Reduce organizational risk
+
+• Enable faster and better executive decision-making
+
+Without changing how care teams deliver care.
 
 ---
 
-# Technology Stack
+# Platform Philosophy
 
-| Layer | Technology |
-|--------|------------|
-| Frontend | Next.js, React, TypeScript |
-| Backend | FastAPI, Python |
-| Database | PostgreSQL |
-| ORM | SQLAlchemy 2.0 |
-| Database Migrations | Alembic |
-| Artificial Intelligence | OpenAI |
-| Infrastructure | Docker |
-| Reports | HTML + WeasyPrint |
-| Version Control | Git & GitHub |
+Patient Planet has been designed around a simple engineering principle.
 
+```
+
+Operational Systems record activity.
+
+↓
+
+Intelligence Systems enable decisions.
+
+```
+
+Most healthcare software answers one question.
+
+> **What happened?**
+
+Patient Planet is designed to answer five.
+
+```
+
+What is happening?
+
+↓
+
+Why is it happening?
+
+↓
+
+What is likely to happen next?
+
+↓
+
+What should be done?
+
+↓
+
+How can performance continuously improve?
+
+```
+
+This architectural philosophy guides every module within the platform.
+
+Rather than building isolated software products, Patient Planet brings together operational workflows, quality systems, compliance management, workforce intelligence and artificial intelligence into one enterprise operating system.
+
+---
 ---
 
 # Platform Architecture
 
+Patient Planet follows a modular enterprise architecture designed around clear separation of concerns.
+
+Each layer has a defined responsibility while remaining independently extensible.
+
+```text
+
+                                      PATIENT PLANET
+                           Care Intelligence Platform Architecture
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════
+
+                                      USERS
+
+                     Executives • Managers • Nurses • Caregivers
+                     Auditors • Quality Teams • Administrators
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════
+                                              │
+                                              ▼
+
+┌───────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                         PRESENTATION LAYER                                        │
+├───────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                   │
+│  Next.js App Router                                                                               │
+│  React                                                                                             │
+│  TypeScript                                                                                        │
+│  TailwindCSS                                                                                       │
+│                                                                                                   │
+│  • Executive Command Centre                                                                       │
+│  • Homecare Intelligence                                                                          │
+│  • Care Home Intelligence                                                                         │
+│  • AI Co-Pilot                                                                                    │
+│  • Dashboards                                                                                     │
+│  • Reports                                                                                        │
+│                                                                                                   │
+└───────────────────────────────────────────────────────────────────────────────────────────────────┘
+                                              │
+                                              ▼
+
+┌───────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                     APPLICATION SERVICES                                          │
+├───────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                   │
+│ Authentication │ Authorization │ Business Logic │ Validation │ Reporting │ API Layer             │
+│                                                                                                   │
+│ FastAPI • Python                                                                                  │
+│                                                                                                   │
+└───────────────────────────────────────────────────────────────────────────────────────────────────┘
+                                              │
+                     ┌────────────────────────┼────────────────────────┐
+                     ▼                        ▼                        ▼
+
+┌─────────────────────────────┐   ┌─────────────────────────────┐   ┌─────────────────────────────┐
+│       DATA PLATFORM         │   │      AI SERVICES            │   │      FILE SERVICES          │
+├─────────────────────────────┤   ├─────────────────────────────┤   ├─────────────────────────────┤
+│ PostgreSQL                  │   │ OpenAI                      │   │ Upload Management           │
+│ SQLAlchemy                  │   │ Prompt Orchestration        │   │ Evidence Repository         │
+│ Alembic                     │   │ AI Co-Pilot                │   │ Generated Reports           │
+│ Audit Trail                 │   │ Recommendations             │   │ Attachments                │
+└─────────────────────────────┘   └─────────────────────────────┘   └─────────────────────────────┘
+                     │                        │                        │
+                     └────────────────────────┼────────────────────────┘
+                                              ▼
+
+┌───────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                 CARE INTELLIGENCE ENGINE                                          │
+├───────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                   │
+│  Executive Intelligence                                                                           │
+│  Operational Intelligence                                                                         │
+│  Workforce Intelligence                                                                           │
+│  Quality Intelligence                                                                             │
+│  Compliance Intelligence                                                                          │
+│  Benchmark Intelligence                                                                           │
+│  Predictive Risk Analytics                                                                        │
+│  AI Decision Support                                                                              │
+│  Reporting & Insights                                                                             │
+│                                                                                                   │
+└───────────────────────────────────────────────────────────────────────────────────────────────────┘
+                                              │
+                                              ▼
+
+┌───────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                    ENTERPRISE MODULES                                             │
+├───────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                   │
+│  🏠 Homecare Intelligence                                                                         │
+│  🏡 Care Home Intelligence                                                                        │
+│                                                                                                   │
+└───────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+═══════════════════════════════════════════════════════════════════════════════════════════════════════
 ```
-                Next.js Frontend
-                       │
-                       ▼
-              FastAPI Backend API
-                       │
-        ┌──────────────┼──────────────┐
-        ▼              ▼              ▼
- PostgreSQL       OpenAI API     File Storage
+
+---
+
+# Platform Components
+
+Patient Planet is composed of several independent but tightly integrated enterprise services.
+
+```text
+
+Patient Planet
+
+├── Executive Command Centre
+│   ├── CEO Dashboard
+│   ├── Executive KPIs
+│   ├── Operational Snapshot
+│   ├── Performance Monitoring
+│   └── Enterprise Reporting
+│
+├── Homecare Intelligence
+│   ├── Patient Management
+│   ├── Caregiver Management
+│   ├── Scheduling
+│   ├── Clinical Operations
+│   ├── Assessments
+│   └── Service Delivery
+│
+├── Care Home Intelligence
+│   ├── Resident Management
+│   ├── Occupancy
+│   ├── Daily Operations
+│   ├── Resident Safety
+│   ├── Incident Management
+│   └── Facility Operations
+│
+├── Quality Intelligence
+│   ├── Quality Management System
+│   ├── Digital Assessments
+│   ├── Internal Audits
+│   ├── Continuous Improvement
+│   └── Clinical Governance
+│
+├── Compliance Intelligence
+│   ├── NABH Standards Mapping
+│   ├── Digital Compliance Workflow
+│   ├── Automated NC Detection
+│   ├── AI-assisted CAPA
+│   ├── Evidence Management
+│   └── Audit Readiness
+│
+├── Workforce Intelligence
+│   ├── Staff Management
+│   ├── Performance Monitoring
+│   ├── Competency Tracking
+│   ├── Productivity Analytics
+│   └── Training Records
+│
+├── Risk Intelligence
+│   ├── Patient Risk Monitoring
+│   ├── Resident Risk Monitoring
+│   ├── Predictive Analytics
+│   ├── Early Warning Indicators
+│   └── Escalation Management
+│
+├── AI Services
+│   ├── AI Co-Pilot
+│   ├── Natural Language Queries
+│   ├── Recommendation Engine
+│   ├── Document Intelligence
+│   └── Decision Support
+│
+└── Reporting Engine
+    ├── Operational Reports
+    ├── Executive Reports
+    ├── Benchmark Reports
+    ├── Quality Reports
+    └── Compliance Reports
+
+```
+
+---
+
+# Design Principles
+
+The platform has been engineered around a set of architectural principles.
+
+```text
+
+✓ Modular Architecture
+
+✓ Domain-Driven Design
+
+✓ API-First Development
+
+✓ AI-Native Workflows
+
+✓ Multi-Tenant Ready
+
+✓ Security by Design
+
+✓ Compliance by Design
+
+✓ Scalable Service Boundaries
+
+✓ Enterprise Extensibility
+
+✓ Standards-Based Interoperability
+
+✓ Separation of Presentation, Business Logic and Data
+
+✓ Executive-First User Experience
+
+```
+
+The architecture is intentionally modular to allow new intelligence domains, regulatory frameworks, AI capabilities and enterprise integrations to be introduced without affecting the core platform.
+
+---
+
+# Repository Architecture
+
+The repository is organized around modular enterprise domains.
+
+Each domain encapsulates its own API endpoints, business services, data models and validation logic, allowing the platform to evolve without creating unnecessary coupling between modules.
+
+```text
+
+patient-planet-care-intelligence
+│
+├── backend
+│   │
+│   ├── alembic
+│   │   ├── versions
+│   │   └── env.py
+│   │
+│   ├── sql
+│   │
+│   └── app
+│       │
+│       ├── api
+│       │   ├── authentication
+│       │   ├── executive
+│       │   ├── homecare
+│       │   ├── carehome
+│       │   ├── compliance
+│       │   ├── quality
+│       │   ├── workforce
+│       │   ├── reporting
+│       │   ├── ai
+│       │   └── administration
+│       │
+│       ├── core
+│       │   ├── configuration
+│       │   ├── security
+│       │   ├── permissions
+│       │   └── middleware
+│       │
+│       ├── db
+│       │
+│       ├── models
+│       │
+│       ├── schemas
+│       │
+│       ├── services
+│       │
+│       ├── intelligence
+│       │
+│       ├── reporting
+│       │
+│       ├── integrations
+│       │
+│       ├── templates
+│       │
+│       └── utils
+│
+├── frontend
+│   │
+│   ├── app
+│   ├── components
+│   ├── hooks
+│   ├── lib
+│   ├── services
+│   ├── styles
+│   ├── public
+│   └── assets
+│
+├── storage
+│   ├── uploads
+│   ├── evidence
+│   └── reports
+│
+├── docker
+│
+├── docs
+│
+├── scripts
+│
+└── README.md
+
+```
+
+---
+
+# Domain Architecture
+
+Patient Planet follows a domain-oriented architecture.
+
+Each business capability is developed as an independent domain while sharing common platform services such as authentication, reporting, AI orchestration and security.
+
+```text
+
+                                   Patient Planet
+
+                                          │
+
+      ┌───────────────────────────────────┼────────────────────────────────────┐
+
+      ▼                                   ▼                                    ▼
+
+ Homecare Domain                 Care Home Domain                  Executive Domain
+
+      │                                   │                                    │
+
+      ├── Patients                      ├── Residents                     ├── KPIs
+
+      ├── Visits                        ├── Occupancy                     ├── Dashboards
+
+      ├── Care Plans                    ├── Daily Care                    ├── Analytics
+
+      ├── Assessments                   ├── Incidents                     ├── Reports
+
+      └── Scheduling                    └── Facility Ops                  └── Insights
+
+      ┌───────────────────────────────────┼────────────────────────────────────┐
+
+      ▼                                   ▼                                    ▼
+
+ Quality Domain                 Compliance Domain               Workforce Domain
+
+      │                                   │                                    │
+
+      ├── QMS                          ├── NABH                          ├── Staff
+
+      ├── Audits                       ├── NC                            ├── Training
+
+      ├── Assessments                  ├── CAPA                          ├── Competency
+
+      ├── Indicators                   ├── Evidence                      ├── Performance
+
+      └── Monitoring                   └── Readiness                     └── Productivity
+
+                                          │
+
+                                          ▼
+
+                              Shared Intelligence Services
+
+                                          │
+
+      ├── AI Co-Pilot
+
+      ├── Reporting Engine
+
+      ├── Benchmark Engine
+
+      ├── Risk Engine
+
+      ├── Notification Services
+
+      ├── Authentication
+
+      ├── Authorization
+
+      └── Audit Logging
+
+```
+
+---
+
+# Intelligence Workflow
+
+Patient Planet continuously transforms operational activity into executive intelligence.
+
+```text
+
+                    DATA SOURCES
+
+      Patient Records
+
+      Resident Records
+
+      Workforce Data
+
+      Compliance Data
+
+      Quality Assessments
+
+      Incidents
+
+      Operations
+
+      Documents
+
+               │
+
+               ▼
+
+══════════════════════════════════════════════
+
+          DATA VALIDATION LAYER
+
+══════════════════════════════════════════════
+
+               │
+
+               ▼
+
+══════════════════════════════════════════════
+
+       CARE INTELLIGENCE ENGINE
+
+══════════════════════════════════════════════
+
+      Data Correlation
+
+      Business Rules
+
+      Risk Scoring
+
+      Trend Detection
+
+      Predictive Analytics
+
+      AI Recommendations
+
+      Benchmark Analysis
+
+      Operational Insights
+
+══════════════════════════════════════════════
+
+               │
+
+               ▼
+
+══════════════════════════════════════════════
+
+        EXECUTIVE DECISION LAYER
+
+══════════════════════════════════════════════
+
+      Executive Dashboards
+
+      AI Co-Pilot
+
+      Quality Alerts
+
+      Compliance Monitoring
+
+      Workforce Insights
+
+      Performance KPIs
+
+      Professional Reports
+
+      Strategic Decision Support
+
+```
+
+---
+
+# Engineering Principles
+
+Patient Planet has been designed around engineering principles intended to support long-term maintainability, scalability and enterprise adoption.
+
+```text
+
+Architecture Philosophy
+
+├── Modular Design
+├── Domain-Driven Development
+├── API-First Architecture
+├── AI-Native Platform
+├── Multi-Tenant Ready
+├── Cloud-Native Deployment
+├── Security by Design
+├── Compliance by Design
+├── Privacy by Design
+├── Separation of Concerns
+├── Service-Oriented Architecture
+├── Extensible Module Design
+├── Standards-Based Interoperability
+├── Comprehensive Auditability
+└── Enterprise Scalability
+
+```
+
+---
+
+# Development Roadmap
+
+```text
+
+Version 1.0
+│
+├── Homecare Intelligence
+├── Care Home Intelligence
+├── Executive Command Centre
+├── AI Co-Pilot
+├── Quality Management System
+├── NABH Digital Workflow
+├── Compliance Intelligence
+├── Workforce Intelligence
+└── Professional Reporting
+
+──────────────────────────────────────────────
+
+Version 2.0
+│
+├── Multi-Tenant Architecture
+├── Enterprise RBAC
+├── DPDP Compliance Framework
+├── ISO 27001 Readiness
+├── SOC 2 Readiness
+├── Advanced Analytics
+├── Benchmark Intelligence
+└── API Integrations
+
+──────────────────────────────────────────────
+
+Version 3.0
+│
+├── FHIR Interoperability
+├── Healthcare Knowledge Graph
+├── Agentic AI Workflows
+├── Population Health Intelligence
+├── Enterprise Integrations
+├── AI Workflow Automation
+├── Cross-Organization Benchmarking
+└── Global Regulatory Frameworks
+
+```
+
+---
+
+# Security & Platform Architecture
+
+Patient Planet is designed using layered security principles suitable for enterprise healthcare environments.
+
+Security is treated as a platform capability rather than a standalone feature, with controls applied across identity, application services, data access and infrastructure.
+
+```text
+
+                                  SECURITY MODEL
+
+══════════════════════════════════════════════════════════════════════════════════════
+
+                               Identity & Access
+
+══════════════════════════════════════════════════════════════════════════════════════
+
+ Users
+    │
+    ▼
+Authentication
+    │
+    ▼
+Role Based Access Control (RBAC)
+    │
+    ▼
+Permission Evaluation
+    │
+    ▼
+Business Services
+
+══════════════════════════════════════════════════════════════════════════════════════
+
+                              Application Security
+
+══════════════════════════════════════════════════════════════════════════════════════
+
+Input Validation
         │
         ▼
-Executive Dashboards • AI Copilot • Reports • Intelligence Engine
+Business Rules
+        │
+        ▼
+Authorization
+        │
+        ▼
+Audit Logging
+        │
+        ▼
+Database
+
+══════════════════════════════════════════════════════════════════════════════════════
+
 ```
 
 ---
 
-# Repository Structure
+# Multi-Tenant Architecture
+
+The platform is designed to support multiple organizations while maintaining logical isolation between tenant data.
+
+```text
+
+                         PATIENT PLANET CLOUD
+
+═══════════════════════════════════════════════════════════════════════
+
+                    Shared Platform Services
+
+ Authentication
+ AI Engine
+ Reporting
+ Notifications
+ Monitoring
+ Audit Services
+
+═══════════════════════════════════════════════════════════════════════
+
+          │
+──────────┼──────────────────────────────────────────────────────
+          │
+          ▼
+
+ ┌──────────────┐
+ │ Tenant A     │
+ │ Homecare     │
+ └──────────────┘
+
+ ┌──────────────┐
+ │ Tenant B     │
+ │ Care Home    │
+ └──────────────┘
+
+ ┌──────────────┐
+ │ Tenant C     │
+ │ Enterprise   │
+ └──────────────┘
+
+          │
+
+Each tenant maintains independent operational data,
+configuration, users and reporting while sharing the
+underlying platform infrastructure.
 
 ```
-backend/
-├── alembic/
-├── sql/
-└── app/
-    ├── api/
-    ├── core/
-    ├── db/
-    ├── models/
-    ├── schemas/
-    ├── services/
-    └── templates/
 
-frontend/
-├── app/
-├── components/
-└── lib/
+---
 
-storage/
-├── uploads/
-└── reports/
+# Request Lifecycle
+
+Every request follows a consistent processing pipeline.
+
+```text
+
+Browser
+
+   │
+
+   ▼
+
+API Gateway
+
+   │
+
+   ▼
+
+Authentication
+
+   │
+
+   ▼
+
+Authorization
+
+   │
+
+   ▼
+
+Validation
+
+   │
+
+   ▼
+
+Business Service
+
+   │
+
+   ▼
+
+Database
+
+   │
+
+   ▼
+
+AI Intelligence (where applicable)
+
+   │
+
+   ▼
+
+Response
+
 ```
 
 ---
 
-# Current Status
+# AI Orchestration
 
-Patient Planet Care Intelligence Platform is actively evolving.
+Artificial Intelligence is integrated as a platform service rather than embedded into individual modules.
 
-The core Homecare Intelligence and Care Home Intelligence operating systems are functional and continue to expand with additional AI capabilities, analytics, executive dashboards, benchmarking, and operational intelligence.
+```text
+
+                 USER REQUEST
+
+                       │
+
+                       ▼
+
+              AI ORCHESTRATION
+
+                       │
+
+        ┌──────────────┼──────────────┐
+
+        ▼              ▼              ▼
+
+ Context Builder   Prompt Engine   Business Rules
+
+        │              │              │
+
+        └──────────────┼──────────────┘
+
+                       ▼
+
+                 OpenAI Models
+
+                       │
+
+                       ▼
+
+             Structured AI Response
+
+                       │
+
+                       ▼
+
+             Executive Dashboard
+
+```
 
 ---
+
+# Reporting Pipeline
+
+```text
+
+Operational Data
+
+        │
+
+        ▼
+
+Data Validation
+
+        │
+
+        ▼
+
+Aggregation Engine
+
+        │
+
+        ▼
+
+Business Metrics
+
+        │
+
+        ▼
+
+Report Generator
+
+        │
+
+        ▼
+
+PDF / Dashboard / Executive Reports
+
+```
+
 ---
 
-## 🏛️ ENTERPRISE GOVERNANCE & REGULATORY REGISTRY
+# Platform Integrations
 
-* **Asset Class:** Core Care Intelligence Engine Architecture
-* **Trademarks:** Registered and Protected under Class 42 & Class 44
-* **Compliance Moat:** Aligned with the WHO Global Strategy on Digital Health Interoperability Standards and official WHO-ITU BHBM Clinical Deployment Protocols.
-* **Distribution Channel:** Distributed exclusively under restricted B2B Enterprise Software Licensing Frameworks. 
+The architecture has been designed to support integration with external healthcare and enterprise systems.
 
-For institutional sandbox allocation requests, data pipeline integration protocols, or formal executive briefings, please connect via authenticated enterprise channels.
+```text
+
+                   External Systems
+
+        Hospital EMR
+
+        Laboratory Systems
+
+        HR Systems
+
+        Payroll
+
+        Accounting
+
+        Government Portals
+
+        IoT Devices
+
+        Remote Monitoring
+
+                  │
+
+                  ▼
+
+           Integration Layer
+
+                  │
+
+                  ▼
+
+      Patient Planet Core Platform
+
+```
 
 ---
 
-# Long-Term Vision
+# Planned Enterprise Capabilities
 
-Patient Planet is building the intelligence infrastructure for modern care organizations.
+The platform roadmap includes additional enterprise capabilities to support larger multi-site organizations.
 
-Our ambition is to give every homecare provider and every care home, whether operating a single facility or hundreds across multiple locations, real-time visibility into operations, workforce, quality, compliance, and clinical performance through one unified AI-powered platform.
+```text
+
+Enterprise Roadmap
+
+├── Multi-Tenant Administration
+├── Advanced RBAC
+├── Single Sign-On (SSO)
+├── API Gateway
+├── Event-Driven Services
+├── FHIR Integration
+├── HL7 Integration
+├── Healthcare Knowledge Graph
+├── AI Workflow Automation
+├── Enterprise Monitoring
+├── Compliance Command Centre
+├── Tenant Configuration Engine
+├── Notification Services
+├── Benchmarking Platform
+├── Population Health Analytics
+└── Cross-Organization Intelligence
+
+```
 
 ---
 
-## License
+# Enterprise Design Goals
+
+The platform is being developed with the following long-term engineering objectives.
+
+```text
+
+Engineering Goals
+
+├── High Availability
+├── Horizontal Scalability
+├── Modular Services
+├── Secure by Default
+├── Privacy by Design
+├── AI-Enabled Workflows
+├── Standards-Based Interoperability
+├── Regulatory Readiness
+├── Extensible Domain Architecture
+├── Enterprise Maintainability
+├── Observable Platform
+└── Cloud-Native Deployment
+
+```
+
+---## License
 
 Copyright © Patient Planet.
 
